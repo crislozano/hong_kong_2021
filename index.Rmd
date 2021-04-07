@@ -211,37 +211,7 @@ What happens with L2 learners?
 1. Dussias et al., 2013; Foucart et al., 2014; Hopp, 2015; Lew-Williams & Fernald, 2010; Mitsugi & MacWhinney, 2016
 2. Dussias et al., 2013; Hopp, 2015; Martin et al., 2013; Marull, 2017
 ]
----
 
-class: inverse, center, middle
-
-# Prediction Based on <br/> Prosodic Cues <br/> 
-
----
-
-# Prosodic Cues for Prediction - L1 & L2
-
-
-### Word tones
-
-- Swedish word-tones preactive upcoming morphology (present/past, singular/plural)
-- Advanced L2ers can use word tones for prediction
-- Beginning L2ers cannot use word tones
-- Morphological prediction based on word-tones can be explicitly trained (beginner level)
-
-
-### Lexical stress
-
-- Spanish natives use lexical stress to predict morphology
-- Beginner L2ers cannot use lexical stress to predict morphology
-- Advanced L2ers use lexical stress to predict morphology, only under certain conditions
-
-
-
-
-.footnote[
-Roll, 2015; Sagarra & Casillas, 2012; Schremm et al., 2016; Schremm et al., 2017
-]
 
 ---
 
