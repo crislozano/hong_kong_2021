@@ -1,5 +1,5 @@
 ---
-title: ".blue[Interpreting experience enhances predictive processing in the second language]"
+title: .blue[Interpreting experience enhances predictive processing in the second language]
 subtitle: "2nd Hong Kong Baptist University </br> International Conference on Interpreting"
 author: "**Cristina Lozano Argüelles<sup>1</sup>, Nuria Sagarra<sup>2</sup>, Joseph V. Casillas<sup>2</sup>**"
 date: "John Jay College<sup>1</sup> </br> Rutgers University<sup>2</sup>  </br> *08-04-2021*"
@@ -21,6 +21,9 @@ background-image: url(./img/future_predict.jpg)
 background-size: 500pt
 background-position: 50% 50%
 
+Access the presentation here: https://crislozano.github.io/hong_kong_2021
+
+
 ???
 Thank you very much for being here today. 
 This is the first time I present for an interpreting audience and I'm very interested in all the comments you might have.
@@ -28,7 +31,7 @@ This is the first time I present for an interpreting audience and I'm very inter
 By reading the title, predicting the end, you might be thinking about some sort of apocalyptic account. 
 But prediction, far from being a complicated cognitive construct or a mystic power, is very much present in our daily lives. For example, when watching a movie, 
 
---
+---
 background-image: url(./img/predictable.gif)
 background-size: 500pt
 background-position: 50% 50%
@@ -37,7 +40,7 @@ background-position: 50% 50%
 ???
 you often find yourself trying to predict the end.
 
---
+---
 background-image: url(./img/frisbee_catch.gif)
 background-size: 400pt
 background-position: 50% 50%
@@ -77,12 +80,6 @@ The joke says that it's a terrible idea to go to an interpreter's party becuase 
 
 - ### why L1 and L2 processing are different
 
---
-
-
-
-???
-
 
 
 ---
@@ -98,13 +95,6 @@ class: inverse
 
 - ## Role of interpreting experience
 
-
-
-???
-
-Generally speaking, we want to investigate the role of prediction based on prosodic cues in L1 and L2 Spanish
-
-and also the role of anticipatory experience as a modulating factor of prediction ability in the L2
 
 
 ---
@@ -148,7 +138,7 @@ e.g. "Encuentra la galleta" (Find the-FEM cookie)
 
 ???
 
-Focusing on native speakers, research has shown that, when the context is non-predictive, there are other cues that speakers use to predict upcoming information. For example, the gender instantiated in the determinter, allows the speaker to predict the object that will be mentioned (when only one of the displayed objects is femenine.) This is study with done with children
+In interpreting, we often focus on how the context gives us cues. However, research shows that, when the context is non-predictive, there are other cues that speakers use to predict upcoming information. For example, the gender instantiated in the determiner, allows the speaker to predict the object that will be mentioned (when only one of the displayed objects is feminine.) 
 
 Something similar happens with case. When native German speakers hear the case in the article, they look to what's coming. In SVO, they look to the object, in OVS, they look to the subject
 
@@ -185,7 +175,7 @@ e.g. "The boy will eat/move the cake"
 
 ???
 
-Other researchers have focused on what happens when the context of the sentence is constraining. For example, when hearing the sentence "the day was breezy....", native speakers show a surprisal effect in the case of the less freqent noun (airplane), but importantly, this effect is shown already at the article. A group of labs failed to replicate this effect, but we can discuss at the end if your interested.
+Other researchers have focused on what happens when the context of the sentence is constraining, this is closer to what we teach in interpreting courses. For example, when hearing the sentence "the day was breezy....", native speakers show a surprisal effect in the case of the less freqent noun (airplane), but importantly, this effect is shown already at the article. A group of labs failed to replicate this effect, but we can discuss at the end if your interested.
 
 Other examples of predictive context would be sentences where the semantic information in the verb helps to predict what comes next. For instance, when presented with this image and hears the sentence They boy will eat the cake, the participant is already looking at the cake right after hearing the verb eat.
 
@@ -231,28 +221,6 @@ class: inverse, center, middle
 
 # Prosodic Cues for Prediction - L1 & L2
 
-### Intonation
-
-- Japanese contrastive intonation preactivates the initial syntactic analysis in L1
-
-
-### Lexical stress
-
-- Spanish natives use lexical stress to predict morphology
-- Beginner L2ers cannot use lexical stress to predict morphology
-- Advanced L2ers use lexical stress to predict morphology, only under certain conditions
-
-.footnote[
-Nakamura et al., 2012; Rehrig, 2017; Sagarra & Casillas, 2012
-]
-
----
-# Prosodic Cues for Prediction - L1 & L2
-
-### Vowel duration
-- English vowel duration preactivates upcoming morphology (active/pasive verbs) in L1
-- but not in advanced L2 learners
-
 
 ### Word tones
 
@@ -262,9 +230,17 @@ Nakamura et al., 2012; Rehrig, 2017; Sagarra & Casillas, 2012
 - Morphological prediction based on word-tones can be explicitly trained (beginner level)
 
 
+### Lexical stress
+
+- Spanish natives use lexical stress to predict morphology
+- Beginner L2ers cannot use lexical stress to predict morphology
+- Advanced L2ers use lexical stress to predict morphology, only under certain conditions
+
+
+
 
 .footnote[
-Gosselke Berthelse et al, 2018; Rehrig, 2017; Roll, 2015; Schremm et al., 2016; Schremm et al., 2017
+Roll, 2015; Sagarra & Casillas, 2012; Schremm et al., 2016; Schremm et al., 2017
 ]
 
 ---
@@ -275,7 +251,7 @@ class: inverse, center, middle
 
 ---
 
-# Suprasegmentals - Lexical Stress
+# Lexical Stress
 
 - Relative prominece of a syllable in a word.
 - Contrastive in English and Spanish, but used differently
@@ -310,19 +286,6 @@ Cooper et al., 2002; Face, 2006; Soto-Faraco et al., 2001
 
 Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
-
----
-
-# Segmentals - Syllabic Structure
-
-## CV - papá _(dad)_
-
-## CVC - carne _(meat)_
-
-## Works similarly in both English and Spansih
-
-  - ### CV = more frequent
-  - ### CVC = less frequent, hence, less lexical competitors
 
 
 ---
@@ -384,15 +347,9 @@ There are still some questions that we haven't answered
 class: inverse
 
 
-## Can **lexical stress** and **syllabic structure** be used to predict morphological endings in L1 and L2 Spanish?
-## What about non-morphological word endings?
-### Does prediction only happen when we can separate the word in two components?
-
-
---
-
-## Proficiency is an important factor for L2 prediction, but...
-## Does additional **experience making predictions** impact L2 prediction?
+## 1. Can **lexical stress** and **syllabic structure** be used to predict morphological endings in L1 and L2 Spanish?
+## 2. What about non-morphological word endings?
+## 3. Does additional **interpreting experience** impact L2 prediction?
 
 ???
 
@@ -415,7 +372,7 @@ I'll explain in a minute what I mean by non-morphological word endings
 --
 
 .pull-right[
-## Experiment 2: non-morphology
+## Experiment 2: non-morphology <sup>2</sup>
 - Monolinguals (n = 32)
 - Non-interpreter bilinguals (n = 26)
 - Interpreter bilinguals (n = 24)
@@ -424,7 +381,8 @@ I'll explain in a minute what I mean by non-morphological word endings
 ]
 
 .footnote[
-.small[ 1 Lozano-Argüelles, Sagarra & Casillas, forthcoming (BLC)]
+.small[ 1 Lozano-Argüelles, Sagarra & Casillas, 2020 (BLC)] </br>
+2 Lozano-Argüelles & Sagarra (under reveiw, Applied Psycholinguistics)
 ]
 
 ---
@@ -457,6 +415,8 @@ background-position: 4% 80%, 97% 80%
 - 18 practice 
 - 16 experimental
 - 32 fillers
+
+Verbs
 ]
 
 .pull-right[
@@ -465,6 +425,10 @@ background-position: 4% 80%, 97% 80%
 - 8 practice 
 - 16 experimental
 - 48 fillers
+
+Nouns
+
+
 ]
 
   
@@ -526,6 +490,13 @@ We analyzed the time window spanning from 200ms before the target syllabe offset
 The GCA is a model that fits that data to its functional form. We included the linear, quadratic and cubic time terms.
 
 ---
+
+background-image: url(./img/sentence_ex.png)
+background-size: 650pt
+background-position: 50% 50%
+
+
+---
 class: inverse, middle, center
 
 # Results
@@ -538,7 +509,7 @@ class: inverse, middle, center
 
 background-image: url(./img/prob_graphs.png)
 background-size: 650pt
-background-position: 50% 70%
+background-position: 50% 75%
 
 .pull-left[ 
 ## Experiment 1
@@ -551,9 +522,7 @@ background-position: 50% 70%
 ]
 
 
-.footnote[
-.tiny[Model estimates for probability of target fixations ± SE at 200 ms after the target syllable offset]
-]
+
 
 ???
 
@@ -602,16 +571,15 @@ Moving to Experiment 2, we see differences between the interpreters and non-inte
 **MON**
 - Syllabic structure: coda increases prediction
 - Stress: oxy fixated earlier than parox
-- Syl x stress: coda increases fixations for parox only
 
 
 **NIN**
 - Anticipate later than MO
-- Stress x coda: adding a coda improves prediction, but only in paroxytones
+
 
 **IN**
 - Anticipate later than MO
-- Anticipate later than NIN, but at a faster rate
+- Anticipate later than NIN, but faster
 
 
 
@@ -627,10 +595,10 @@ Moving to Experiment 2, we see differences between the interpreters and non-inte
 **NIN**
 - Anticipate less than MON
 - Anticipate later than MON (but faster)
-- Interaction is stronger (coda more helpful)
+
 
 **IN**
-- Interaction is stronger (coda more helpful)
+
 - Anticipate earlier than NIN
 
 ]
@@ -644,6 +612,7 @@ I started by a descriptive explanation of what's going on, here is a summary of 
 
 # Discussion
 
+.large[
 - Monolinguals use stress and syllabic structure in a similar way for predicting both morphological and non-morphological word endings 
 
 - Experience with interpreting doesn't seem to have a big impact on the prediction of morphology
@@ -651,48 +620,47 @@ I started by a descriptive explanation of what's going on, here is a summary of 
 - But it does make a difference when predicting non-morphological endings
 
 - Both lexical stress and syllabic structure behave in the same direction
-    - Less frequent cond (oxytone, CVC) improve prediction
-    - Having fewer lexical competitors accelarates prediction
-
+    - Less frequent conditions (oxytone, CVC) improve prediction
+    - Having fewer lexical competitors accelerates prediction
+]
 
 ---
 
 # Conclusions
 
-1. Our findings support models advocating that it is possible to train anticipatory processing <sup>(Schremm, et al., 2017)</sup>, also with long-term training.
+.large[
 
-2. Prediction strategies in the bilingual mind can be enhanced through implicit (i.e. interpreting) training. 
+2. Prediction strategies are qualitatively similar in the L1 and L2, but quantitatively different.
 
-3. Prediction strategies are qualitatively similar in the L1 and L2, but quantitatively different.
+1. Interpreting enhances prediction strategies in the bilingual mind. 
 
+
+]
 
 
 ---
 
 # Limitations and future studies
-
-- Other reasons why interpreters are better:
+.large[
+- **Other reasons why interpreters are better**:
     - increased weekly contact with the L2, 
     - stronger resistance to articulatory suppression
+    - better effort coordination
+]
 
 --
-
-- Semantic relatedness:
-    - firma-firmó = verb + semantically related
-    - papa-papá = noun + semantically unrelated
-
---
-
-- Future studies:
-    - dedo-dedal = noun + semantically related
-    - Is the difference due to a change in grammar category? or semantic relatedness?
-
+.large[
+- **Future studies**:
+    - Investigate the role of interpreting experience in prediction based on contextual information
+    - How does informal interpreting experience impact language processing and prediction? (child language brokers)
+    - In what ways could we improve pedagogical practices of interpreting by including prediction training?
+]
 ---
 class: title-slide-final, center
 
-background-image: url(./img/authors.jpeg), url(./img/gu_logo.png), url(./img/cu_logo.png)
-background-size: 300pt, 150pt, 150pt
-background-position: 80% 50%, 20% 30%, 20% 70%
+background-image: url(./img/authors.jpeg), url(./img/gu_logo.png), url(./img/cu_logo.png), url(./img/mellon.png)
+background-size: 300pt, 120pt, 120pt, 120pt
+background-position: 80% 50%, 20% 20%, 20% 50%, 20% 80%
 
 
 
@@ -708,52 +676,8 @@ background-position: 50% 65%
 
 
 # clozanoarguelles@jjay.cuny.edu
-### Access the presentation here: crislozano.github.io/hls19_presentantion
+### Access the presentation here: https://crislozano.github.io/hong_kong_2021
 
 
 
 
-
----
-
-
-background-image: url(./img/stress_p2.png)
-background-position: 50% 90%
-background-size: 500pt
-
-# Experiment 1: firma-firmó
-
-???
-The model intercept estimates the log odds of participants fixating on the target, averaging over the time course, lexical stress and syllable structure
-
----
-
-background-image: url(./img/stress_p2_unrel.png)
-background-position: 50% 90%
-background-size: 500pt
-
-# Experiment 2: papa-papá
-
----
-
-# Research on Language Prediction
-
-## Underlying questions:
-  
-.content-box-blue[  
-.Large[
-- Pre-activation vs. preparedness? 
-- Probabilistic vs. all-or-nothing?
-- Specific word form vs. certain features?
-- Pervasive vs. confined to certain situations? 
-]
-]
-
-
-.footnote[
-(Dell & Chang, 2013; DeLong et al., 2005; Ferreira & Chantavarin, 2018; Huettig, 2015; Kuperberg & Jaeger, 2016; Nieuwland et al., 2018; Pickering & Gambi, 2018)
-]
-
-???
-
-I'm not trying to answer all these questions, but I wanted to give you some background on why prediction has become an important topic in the field.
