@@ -529,50 +529,7 @@ In the case of Experiment 1, we see that interpreters and non-interpreters behav
 Moving to Experiment 2, we see differences between the interpreters and non-interpreters. The interpreters are behaving closer to monolinguals. The group effect did not reach significance when comparing mon to in accross conditions, however it was .057. The non-morphological ending seems to be harder to anticipate for the non-interpreters and, as we saw earlier, they are only anticipating in the CVC-oxytonce condition.
 
 
----
 
-.pull-left[ 
-### Experiment 1 firma-firmó
-
-**MON**
-- Syllabic structure: coda increases prediction
-- Stress: oxy fixated earlier than parox
-
-
-**NIN**
-- Anticipate later than MO
-
-
-**IN**
-- Anticipate later than MO
-- Anticipate later than NIN, but faster
-
-
-
-]
-
-.pull-right[ 
-### Experiment 2 papa-papá
-
-**MON**
-- Stress: oxytone increases prediction
-
-
-**NIN**
-- Anticipate less than MON
-- Anticipate later than MON (but faster)
-
-
-**IN**
-
-- Anticipate earlier than NIN
-
-]
-
-
-???
-
-I started by a descriptive explanation of what's going on, here is a summary of the effects and interactions that we got from the growth curve analysis.
 
 ---
 
@@ -581,26 +538,15 @@ I started by a descriptive explanation of what's going on, here is a summary of 
 .large[
 - Monolinguals use stress and syllabic structure in a similar way for predicting both morphological and non-morphological word endings 
 
-- Experience with interpreting doesn't seem to have a big impact on the prediction of morphology
+- Prediction strategies are qualitatively similar in the L1 and L2, but quantitatively different
+
+- Experience with interpreting only affects speed in the case of the prediction of morphology
 
 - But it does make a difference when predicting non-morphological endings
 
 - Both lexical stress and syllabic structure behave in the same direction
     - Less frequent conditions (oxytone, CVC) improve prediction
     - Having fewer lexical competitors accelerates prediction
-]
-
----
-
-# Conclusions
-
-.large[
-
-2. Prediction strategies are qualitatively similar in the L1 and L2, but quantitatively different.
-
-1. Interpreting enhances prediction strategies in the bilingual mind. 
-
-
 ]
 
 
